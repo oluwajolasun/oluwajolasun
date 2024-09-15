@@ -1,10 +1,10 @@
 ## Hi there 👋
 # 💫 About Me:
--🔭 I’m currently working on Personal Projects for Full stack Applications
--🤝 I’m looking for help with getting a Job as a Full Stack Developer
--🌱 I’m currently learning Golang 😅
--⚡ Fun fact i think python is overrated
--🔗 [Personal Portfolio](https://oluwajolasun.com/)
+-🔭 I’m currently working on Personal Projects for Full stack Applications<br>
+-🤝 I’m looking for help with getting a Job as a Full Stack Developer<br>
+-🌱 I’m currently learning Golang 😅<br>
+-⚡ Fun fact i think python is overrated<br>
+-🔗 [Personal Portfolio](https://oluwajolasun.com/)<br>
 
 
 ## 🌐 Socials:
