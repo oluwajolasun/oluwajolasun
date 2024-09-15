@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+# Hi there 👋
+## 💫 About Me:
 -🔭 I’m currently working on Personal Projects for Full stack Applications<br>
 -🤝 I’m looking for help with getting a Job as a Full Stack Developer<br>
 -🌱 I’m currently learning Golang 😅<br>
