@@ -1,6 +1,6 @@
 # Hi there 👋
 ## 💫 About Me:
--🌱 I’m currently learning Golang <br>
+-🌱 I’m currently learning Go <br>
 -🔗 [Personal Portfolio](https://oluwajolasun.com/)<br>
 
 
